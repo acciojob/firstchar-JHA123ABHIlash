@@ -6,7 +6,7 @@ function firstChar(text) {
 		}
 	}
 	
-	return 'Hi Abhi';
+	return '';
 }
 
 // Do not change the code below
